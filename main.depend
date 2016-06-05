@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1460919289 source:/home/carlos/Documents/Proyectos/T1_Paisaje/main.cpp
+	<GL/glut.h>
+	"paisaje.h"
+	"engine.h"
+
+1460920773 /home/carlos/Documents/Proyectos/T1_Paisaje/paisaje.h
+	<stdio.h>
+	<math.h>
+	"scene.h"
+
+1460919671 /home/carlos/Documents/Proyectos/T1_Paisaje/scene.h
+
+1460919733 /home/carlos/Documents/Proyectos/T1_Paisaje/engine.h
+
+1464909689 source:/home/carlos/Documents/Proyectos/OpenglEngine/main.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<GL/glut.h>
+	"physics.h"
+	"engine.h"
+
+1460920773 /home/carlos/Documents/Proyectos/OpenglEngine/paisaje.h
+	<stdio.h>
+	<math.h>
+	"scene.h"
+
+1464912411 /home/carlos/Documents/Proyectos/OpenglEngine/scene.h
+
+1464911951 /home/carlos/Documents/Proyectos/OpenglEngine/engine.h
+
+1464912597 /home/carlos/Documents/Proyectos/OpenglEngine/physics.h
+	"scene.h"
+
